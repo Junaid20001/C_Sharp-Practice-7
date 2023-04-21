@@ -1,0 +1,8 @@
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\bin\Debug\practice7_calculator.exe.config
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\bin\Debug\practice7_calculator.exe
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\bin\Debug\practice7_calculator.pdb
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\obj\Debug\practice7_calculator.csproj.AssemblyReference.cache
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\obj\Debug\practice7_calculator.csproj.SuggestedBindingRedirects.cache
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\obj\Debug\practice7_calculator.csproj.CoreCompileInputs.cache
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\obj\Debug\practice7_calculator.exe
+D:\C#\7-Calculator\practice7_calculator\practice7_calculator\obj\Debug\practice7_calculator.pdb
